@@ -1,0 +1,99 @@
+Max HP: 
+Ophilia: 225
+Cyrus: 200
+Tressa: 275
+Olberic: 325
+Primrose: 225
+Alfyn: 300
+Therion: 250
+H'aanit: 250
+
+Max SP:
+Ophilia: 65
+Cyrus: 60
+Tressa: 50
+Olberic: 40
+Primrose: 50
+Alfyn: 50
+Therion: 40
+H'aanit: 40
+
+Phys. Atk.:
+Ophilia: 80
+Cyrus: 72
+Tressa: 88
+Olberic: 96
+Primrose: 80
+Alfyn: 88
+Therion: 88
+H'aanit: 96
+
+Elem. Atk.:
+Ophilia: 96
+Cyrus: 104
+Tressa: 88
+Olberic: 72
+Primrose: 96
+Alfyn: 80
+Therion: 80
+H'aanit: 80
+
+Phys. Def.:
+Ophilia: 80
+Cyrus: 72
+Tressa: 80
+Olberic: 88
+Primrose: 56
+Alfyn: 80
+Therion: 64
+H'aanit: 64
+
+Elem. Def.:
+Ophilia: 104
+Cyrus: 96
+Tressa: 80
+Olberic: 64
+Primrose: 64
+Alfyn: 80
+Therion: 64
+H'aanit: 64
+
+Accuracy:
+Ophilia: 80
+Cyrus: 80
+Tressa: 80
+Olberic: 88
+Primrose: 80
+Alfyn: 80
+Therion: 88
+H'aanit: 96
+
+Speed: 
+Ophilia: 64
+Cyrus: 72
+Tressa: 72
+Olberic: 80
+Primrose: 104
+Alfyn: 64
+Therion: 96
+H'aanit: 80
+
+Critical:
+Ophilia: 56
+Cyrus: 64
+Tressa: 72
+Olberic: 80
+Primrose: 80
+Alfyn: 80
+Therion: 80
+H'aanit: 88
+
+Evasion:
+Ophilia: 64
+Cyrus: 80
+Tressa: 72
+Olberic: 64
+Primrose: 88
+Alfyn: 72
+Therion: 96
+H'aanit: 88

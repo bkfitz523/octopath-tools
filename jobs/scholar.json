@@ -1,0 +1,12 @@
+{
+    "HP": 0,
+    "SP": 0.13,
+    "Physical Attack": 0,
+    "Elemental Attack": 0.10,
+    "Physical Defense": 0,
+    "Elemental Defense": 0.05,
+    "Accuracy": 0,
+    "Speed": 0,
+    "Critical": 0,
+    "Evasion": 0
+}

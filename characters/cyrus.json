@@ -1,0 +1,13 @@
+{
+	"Name": "Cyrus",
+    "HP": 200,
+    "SP": 60,
+    "Physical Attack": 72,
+    "Elemental Attack": 104,
+    "Physical Defense": 72,
+    "Elemental Defense": 96,
+    "Accuracy": 80,
+    "Speed": 72,
+    "Critical": 64,
+    "Evasion": 80
+}

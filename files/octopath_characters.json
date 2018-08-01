@@ -1,0 +1,122 @@
+{
+{
+	"name": "Ophilia",
+	"stat": {
+		"HP": 225,
+		"SP": 65,
+		"Physical Attack": 80,
+		"Elemental Attack": 96,
+		"Physical Defense": 80,
+		"Elemental Defense": 104,
+		"Accuracy": 80,
+		"Speed": 64,
+		"Critical": 56,
+		"Evasion": 64
+	}
+},
+{
+	"name": "Cyrus",
+	"stat": {
+		"HP": 200,
+		"SP": 60,
+		"Physical Attack": 72,
+		"Elemental Attack": 104,
+		"Physical Defense": 72,
+		"Elemental Defense": 96,
+		"Accuracy": 80,
+		"Speed": 72,
+		"Critical": 64,
+		"Evasion": 80
+	}
+},
+{
+	"name": "Tressa",
+	"stat": {
+		"HP": 275,
+		"SP": 50,
+		"Physical Attack": 88,
+		"Elemental Attack": 88,
+		"Physical Defense": 80,
+		"Elemental Defense": 80,
+		"Accuracy": 80,
+		"Speed": 72,
+		"Critical": 72,
+		"Evasion": 72
+	}
+},
+{
+	"name": "Olberic",
+	"stat": {
+		"HP": 325,
+		"SP": 40,
+		"Physical Attack": 96,
+		"Elemental Attack": 72,
+		"Physical Defense": 88,
+		"Elemental Defense": 64,
+		"Accuracy": 88,
+		"Speed": 80,
+		"Critical": 80,
+		"Evasion": 64
+	}
+},
+{
+	"name": "Primrose",
+	"stat": {
+		"HP": 225,
+		"SP": 50,
+		"Physical Attack": 80,
+		"Elemental Attack": 96,
+		"Physical Defense": 56,
+		"Elemental Defense": 64,
+		"Accuracy": 80,
+		"Speed": 104,
+		"Critical": 80,
+		"Evasion": 88
+	}
+},
+{
+	"name": "Alfyn",
+	"stat": {
+		"HP": 300,
+		"SP": 50,
+		"Physical Attack": 88,
+		"Elemental Attack": 80,
+		"Physical Defense": 80,
+		"Elemental Defense": 80,
+		"Accuracy": 80,
+		"Speed": 64,
+		"Critical": 80,
+		"Evasion": 72
+	}
+},
+{
+	"name": "Therion",
+	"stat": {
+		"HP": 250,
+		"SP": 40,
+		"Physical Attack": 88,
+		"Elemental Attack": 80,
+		"Physical Defense": 64,
+		"Elemental Defense": 64,
+		"Accuracy": 88,
+		"Speed": 96,
+		"Critical": 80,
+		"Evasion": 96
+	}
+},
+{
+	"name": "Haanit",
+	"stat": {
+		"HP": 280,
+		"SP": 40,
+		"Physical Attack": 96,
+		"Elemental Attack": 80,
+		"Physical Defense": 64,
+		"Elemental Defense": 64,
+		"Accuracy": 96,
+		"Speed": 80,
+		"Critical": 88,
+		"Evasion": 88
+	}
+}
+}
